@@ -52,3 +52,4 @@ INFO JavaFX Application Thread com.zaxxer.hikari.HikariDataSource - HikariPool-1
 INFO JavaFX Application Thread com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
 INFO JavaFX Application Thread com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
 INFO JavaFX Application Thread com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+WARN HikariPool-1 housekeeper com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15h2m31s341ms722µs).
